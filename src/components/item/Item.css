@@ -1,0 +1,19 @@
+.Item {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 0 8px;
+    align-items: center;
+    gap: 8px;
+}
+
+.Item__categoria {
+    margin-left: auto;
+    font-size: 10px;
+    padding: 2px 4px;
+    border: 1px solid #287428;
+    background-color: #287428;
+    border-radius: 4px;
+    color: white;
+}

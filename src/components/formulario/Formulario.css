@@ -1,0 +1,12 @@
+.Formulario {
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    gap: 12px;
+
+    label {
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+    }
+}
